@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpaceNinjaApe
-- 🤖 Currently Developing Discord-Bots, websites 
+- 🤖 Currently Developing Discord-Bots, websites and more
 - 📖 Helping people to learn how to code (for free)
 - 💲 Currently working as a Software-Engineer in Germany
 - 👀 I’m interested in Typescript, NodeJS, GraphQL, Linux / Bash and so much more
